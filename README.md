@@ -14,10 +14,7 @@
 
 
 ## My Skill Set  
-The modern web allows for its technologies to be used across many areas. I specialize in using the right tool for the job across front-end, back-end, and developer operations scenarios.  
-  
-
-
+The modern web allows for its technologies to be used across many areas. I specialize in using the right tool for the job across front-end, back-end, and developer operations scenarios.
 
 ### Technologies  
 <div align="center">  
@@ -57,6 +54,3 @@ The modern web allows for its technologies to be used across many areas. I speci
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Garbee&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
