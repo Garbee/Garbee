@@ -4,10 +4,7 @@
 ### <div align="center">I'm Jonathan Garbee, a front-end engineer for the Web Platform.</div>  
   
 
-- 💼 I'm seeking new employment. Reach out if you have an opportunity in need of a highly skilled web engineer.
-  
-
-- 🌱 I'm currently building small utility packages while I look for work.
+- 💼 I work at Deque helping to provide tooling that helps improve accessibility.
   
 
 <br/>  
